@@ -6,4 +6,5 @@
     <string name="dial_a_number">Dial a Number</string>
     <string name="pindah_activity_untuk_result">Pindah Activity untuk Result</string>
     <string name="hasil_dari_activity">Hasil dari Activity</string>
+    <string name="toast_message">Toast bro!</string>
 </resources>

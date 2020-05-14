@@ -47,6 +47,13 @@
         android:text="@string/pindah_activity_untuk_result"
         android:layout_marginBottom="@dimen/layout_vertical_margin" />
 
+    <Button
+        android:id="@+id/btn_show_toast"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Show Toast"
+        android:onClick="showToast" />
+
     <TextView
         android:id="@+id/tv_result"
         android:layout_width="match_parent"
